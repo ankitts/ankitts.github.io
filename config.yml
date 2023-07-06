@@ -1,0 +1,26 @@
+baseURL: "https://examplesite.com/"
+title: Ankit
+paginate: 5
+theme: "PaperMod"
+params:
+    profileMode:
+        enabled: true
+        title: "Ankit Somani" # optional default will be site title
+        subtitle: "Software Developer"
+        imageUrl: "img/profile.jpg" # optional
+        imageTitle: "Profile" # optional
+        imageWidth: 180 # custom size
+        imageHeight: 180 # custom size
+        # buttons:
+        #     - name: Archive 
+        #       url: "/archive"
+        #     - name: Github
+        #       url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/ankitts"
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/ankit-somani-172962214"
+        - name: "Email"
+          url: "mailto:ankitrsomani02@gmail.com"
