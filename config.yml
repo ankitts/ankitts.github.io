@@ -14,8 +14,8 @@ params:
         buttons:
             - name: CodeBlogs 
               url: "https://ankitts.github.io/bootstrap-codeblogs/"
-            # - name: Github
-            #   url: "https://github.com/"
+            - name: LeetClone
+              url: "https://leet-clone-murex.vercel.app/"
 
     socialIcons: # optional
         - name: "Github"
