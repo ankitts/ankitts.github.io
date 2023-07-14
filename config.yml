@@ -16,6 +16,8 @@ params:
               url: "https://ankitts.github.io/bootstrap-codeblogs/"
             - name: LeetClone
               url: "https://leet-clone-murex.vercel.app/"
+            - name: VibeSocial
+              url: "https://spectacular-pavlova-3f9baf.netlify.app/"
 
     socialIcons: # optional
         - name: "Github"
