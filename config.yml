@@ -13,7 +13,7 @@ params:
         imageHeight: 180 # custom size
         buttons:
             - name: Medium Clone 
-              url: "https://ankitts.github.io/bootstrap-codeblogs/"
+              url: "https://medium-next-two.vercel.app/"
             - name: LeetClone
               url: "https://leet-clone-murex.vercel.app/"
             - name: VibeSocial
