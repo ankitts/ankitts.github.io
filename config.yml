@@ -12,7 +12,7 @@ params:
         imageWidth: 180 # custom size
         imageHeight: 180 # custom size
         buttons:
-            - name: CodeBlogs 
+            - name: Medium Clone 
               url: "https://ankitts.github.io/bootstrap-codeblogs/"
             - name: LeetClone
               url: "https://leet-clone-murex.vercel.app/"
@@ -20,6 +20,8 @@ params:
               url: "https://spectacular-pavlova-3f9baf.netlify.app/"
             - name: ChatApp
               url: "https://vibe-chat-mu.vercel.app/"
+            - name: CodeBlogs
+              url: "https://ankitts.github.io/bootstrap-codeblogs/"
 
     socialIcons: # optional
         - name: "Github"
